@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    //"target": "ES2017",
+    "target": "ES6",
+  },
+  "ts-node": {
+    "esm": true,  
+  }
+}

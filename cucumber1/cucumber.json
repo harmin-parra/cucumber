@@ -1,0 +1,11 @@
+{
+  "default": {
+    "format": ["html:cucumber-report.html"],
+    "loader": [
+      "ts-node/esm"
+    ],
+    "import": [
+      "features/**/*.ts"
+    ]
+  }
+}
